@@ -10,7 +10,7 @@ Finally, the REACT_APP .env.development is utilized to ensure API keys aren't st
 
 ## Prerequisites
 
-You are going to need to install node.js & jest in order to run this application.
+You are going to need to install Firebase, create-react-app & dotenv in order to run this application.
 
 * Firebase - Install Here: https://www.npmjs.com/package/firebase
 * React - Install Here: https://reactjs.org/docs/create-a-new-react-app.html
